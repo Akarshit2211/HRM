@@ -1,0 +1,21 @@
+.navItem{
+    position: relative;
+    left: 19rem;
+    bottom: 0.1rem;
+    margin-left: 4.7rem;
+    margin-right: 2.5rem;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    transition: all 0.4s ease;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.navItem:hover{
+    border-bottom: 1.5px solid white;
+}
