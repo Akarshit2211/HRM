@@ -1,6 +1,6 @@
 import React from 'react';
 import classes from './landingPage.module.css';
-import Navbar from '../../design/navbar/navbar';
+import Navbar from '../../Components/design/navbar/navbar';
 import LandingInfo from '../../Components/landingInfo/landingInfo';
 
 const landingPage = () => {
