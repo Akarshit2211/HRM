@@ -1,0 +1,1 @@
+const getDb = require('../database/database').getDb;
